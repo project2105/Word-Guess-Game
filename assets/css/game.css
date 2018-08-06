@@ -1,0 +1,78 @@
+html {
+    height: 100vh;
+}
+
+header {
+    background-color: #8ebd91;
+}
+
+main {
+    background: url(../../assets/images/backgroundC.jpg) no-repeat;
+    background-size: cover;
+    height: 100%;
+    font-family: 'Kirang Haerang', cursive;
+}
+
+h1 {
+    color: white;
+    font-size: 3rem;
+    text-align: center;
+    font-family: 'Kirang Haerang', cursive;
+}
+
+#messageSpace {
+    font-size: 3rem;
+    color: #ae2121;
+    text-align: center;
+    padding: 10%;
+    height: 160px;
+}
+
+#letterSpace {
+    height: 100px;
+    margin: 5%;
+}
+
+.letters {
+    font-size: 100px;
+    color: white;
+    font-family: 'Kirang Haerang', cursive;
+}
+
+.indi {
+    padding: 10px;
+}
+
+aside {
+    height: 970px;
+}
+
+#end {
+    padding-left: 5%;
+}
+
+#end p {
+    color: #ae2121;
+    background-color: #8ebd91;
+    font-size: 3em;
+    padding: 2px;
+    font-family: 'Kirang Haerang', cursive;
+}
+
+#graveyard {
+    margin: 0 2% 10% 2%;
+    border: 4px solid #ae2121;
+    padding: 2%;
+    font-size: 60px;
+    color: #ae2121;
+    font-family: 'Kirang Haerang', cursive;
+}
+
+button{
+    margin-left: 5%;
+    background-color: #8ebd91;
+    font-family: 'Kirang Haerang', cursive;
+    font-size: 60px;
+    background-color: #ae2121;
+    color: white;
+}

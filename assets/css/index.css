@@ -1,0 +1,23 @@
+
+body {
+    background-image: url(../images/backgroundA.jpg);
+    background-size: 100%;
+    text-align: center;
+    margin-right: 30%;
+    margin-left: 10%;
+    font-family: 'Kirang Haerang', cursive;
+}
+
+h1 {
+    color: white;
+    font-size: 100px;
+    margin-top: 30%;
+    margin-bottom: 10%;
+}
+
+button {
+    background-color: #8ebd91;
+    font-size: 60px;
+    margin-bottom: 10%;
+    font-family: 'Kirang Haerang', cursive;
+}
